@@ -21,8 +21,5 @@ Kindly, Read the [CONTRIBUTING](https://github.com/ALLINONE4298/Competitive-Codi
 Thanks to all [Contributors](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/blob/main/CONTRIBUTORS.md) to make this project better and I hope you all will make this project more better and keep contributing.
 
 
-
-------------------------------------------------------------------------------------------------------------
 ### Disclaimer: 
-*This is an Open Source Project Free for everyone to see and made valid changes to make it better*
-------------------------------------------------------------------------------------------------------------
+This is an Open Source Project Free for everyone to see and made valid changes to make it better
