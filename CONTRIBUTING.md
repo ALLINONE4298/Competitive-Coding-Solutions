@@ -121,12 +121,12 @@ Have patience and contribute more.
 
 But even after this you can keep contributing and add more changes to the repository and make it better.
 
-### Contribute Again
+------------------------------------------------------------------------------------------------------------
 
-Now, you have to do pretty much the same process.
-Let's do it
+### Wanna Contribute Again? (Then Follow Along)
+Now, you have to do pretty much the same process as before.
 
-##### Create another branch for another Pull Request
+### Create another branch for another Pull Request
 
 It's required to make separate branch for your code. It avoids creating mess in main branch.
 
@@ -138,24 +138,25 @@ git checkout -b new-branch-name
 
 This branch name should be different than previous one.
 
-#### Repeat Step 5 and 6
+### Repeat Step 5 and 6
 
 Add your changes to the repository and commit changes same as before.
 
-#### Update your forked Repository
+### Update your forked Repository
 
 Now it's important to update your forked Repository before pulling latest/updated code.
 ![image](https://user-images.githubusercontent.com/72457759/137009953-fb1318d9-13b4-435e-b7ea-e788e5b437e9.png)
 
 This will fetch all commits done on main repo and update your forked repo in your github account.
 
-#### Repeat Step 8, 9 and 10
-
-* Pull the latest/updated code from the forked repository
-* Push your code to the forked Repository
+### Repeat Step 8, 9 and 10
+Then,
+* Pull the latest/updated code from the forked repository.
+* Push your code to the forked Repository.
 * Create the Pull Request and Wait for the Pull Request to Merge.
 Do Same as Before.
 
+------------------------------------------------------------------------------
 
 That's it, you done it again. Well done! You're doing great. 
 That's the process to contribute in almost every open source project.
