@@ -12,6 +12,8 @@ https://hacktoberfest.digitalocean.com/
 ### 1. Give this Project a Star :star:
 
 You can appreciate the work of this project by giving a star to the Repository.
+![image](https://user-images.githubusercontent.com/72457759/137008609-0ac589f2-dc10-4a9c-adae-bdc732c7e86f.png)
+
 If you liked working on this repo, please share this repo as much as you can and spread love for opensource.
 It will help beginners to contribute in open source projects like this one.
 
@@ -25,9 +27,11 @@ fork means, it create a copy of the main repository in your github account.
 ### 3. Clone Repository
 
 after forking, copy link of the forked repository.
-* add image here with green clone link
 
-Then, type following command in terminal to clone into your machine locally.
+![image](https://user-images.githubusercontent.com/72457759/137008150-bae4a99a-903c-47b7-bf8a-f145a71bef1f.png)
+
+
+Then, type following *git clone* command in terminal to clone into your machine locally.
 
 ```
 git clone "git@github.com:your-username/Competitive-Coding-Solutions.git"
