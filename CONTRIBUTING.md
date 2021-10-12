@@ -102,11 +102,11 @@ git push --set-upstream origin new-branch-name
 ### 10. Create Pull Request
 
 After pushing code to forked repository, You will see a popup like below.
-*add image of create PR
-At this point, you are ready to make a pull request to the original repository.
-Now press that "New pull request" button to create a new pull request.
-* add image of PR description
+![image](https://user-images.githubusercontent.com/72457759/137017674-61fd3e75-306d-47f8-bf9f-59c36a4521fc.png)
+Then click on green button which says compare & pull request.
 
+At this point, you are ready to make a pull request to the original repository.
+![image](https://user-images.githubusercontent.com/72457759/137018731-ee7e167e-edcc-4452-9f67-51be0b4f1d0e.png)
 It's recommended that you should provide proper description about what you've done and attach output to it if so.
 It will help maintainer to review the code and see what you've did and what needs to change.
 
