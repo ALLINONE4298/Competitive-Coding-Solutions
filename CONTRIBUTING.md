@@ -145,11 +145,8 @@ Now it's important to update your forked Repository before pulling latest/update
 * Push your code to the forked Repository
 * Create the Pull Request and Wait for the Pull Request to Merge.
 Do Same as Before.
+
+
 That's it, you done it again. Well done! You're doing great. 
-Keep Doing that, It's contributing in open source be like.
-
-------------------------------------------------------------------------------------------------------------
-Disclaimer: This is an Open Source Project Free for everyone to see and made valid changes to make it better.
-------------------------------------------------------------------------------------------------------------
-
-
+That's the process to contribute in almost every open source project.
+Keep Doing that, That's contributing in open source be like.
