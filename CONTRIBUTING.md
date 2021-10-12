@@ -60,6 +60,8 @@ Type following commands
 
 ```
 git add .
+```
+```
 git commit -m "A good commit message that describes the changes you've made."
 ```
 
