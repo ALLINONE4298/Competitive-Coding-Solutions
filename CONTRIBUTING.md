@@ -17,9 +17,10 @@ It will help beginners to contribute in open source projects like this one.
 
 ### 2. Fork Repository
 
-* add image here
-You can fork repository in which you want to contribute.
-fork:- (means) it create a copy of repository in your account to commit.
+Click on the fork button to fork a repository.
+![image](https://user-images.githubusercontent.com/72457759/137007456-7ea87fdc-9644-4200-8daf-a47f781a7f4d.png)
+You have to a fork repository in which you want to contribute.
+fork means, it create a copy of the main repository in your github account.
 
 ### 3. Clone Repository
 
