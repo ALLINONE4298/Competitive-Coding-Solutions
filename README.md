@@ -7,7 +7,7 @@ A Repo to help, When you're stuck at a particular problem.
 ------------------------------------------------------------------------------------------------
 
 ## Here are some Competitve Coding Platform which are:
-* HackerRank
+* [HackerRank](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Hacker%20Rank)
 * HackerEarth
 * CodeChef
 * and others 
