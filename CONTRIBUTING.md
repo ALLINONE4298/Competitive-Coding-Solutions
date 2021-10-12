@@ -145,6 +145,9 @@ Add your changes to the repository and commit changes same as before.
 #### Update your forked Repository
 
 Now it's important to update your forked Repository before pulling latest/updated code.
+![image](https://user-images.githubusercontent.com/72457759/137009953-fb1318d9-13b4-435e-b7ea-e788e5b437e9.png)
+
+This will fetch all commits done on main repo and update your forked repo in your github account.
 
 #### Repeat Step 8, 9 and 10
 
