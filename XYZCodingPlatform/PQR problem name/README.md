@@ -1,6 +1,6 @@
 # Problem Name
 
-Whole question Description shoul be here.
+Whole question Description should be here.
 
 ## Format
 This is the example one to show the format in which PR will be accepted.
