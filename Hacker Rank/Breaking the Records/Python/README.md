@@ -1,78 +1,73 @@
-# Apple and Orange
+# Breaking the Records
 
-Sam's house has an apple tree and an orange tree that yield an abundance of fruit. Using the information given below, determine the number of apples and oranges that land on Sam's house.
+Maria plays college basketball and wants to go pro. Each season she maintains a record of her play. She tabulates the number of times she breaks her season record for most points and least points in a game. Points scored in the first game establish her record for the season, and she begins counting from there.
 
-In the diagram below:
-* The red region denotes the house, where s is the start point, and t is the endpoint. The apple tree is to the left of the house, and the orange tree is to its right.
-* Assume the trees are located on a single point, where the apple tree is at point a, and the orange tree is at point b.
-* When a fruit falls from its tree, it lands d units of distance from its tree of origin along the x-axis. *A negative value of d means the fruit fell d units to the tree's left, and a positive value of d means it falls d units to the tree's right. *
 
-![image](https://user-images.githubusercontent.com/67931219/137580027-4ed4d5b3-558a-4e0c-a955-8b4f4415e63d.png)
+### Examples
+Scores = [12, 24, 10, 24]
 
-Given the value of d for m apples and n oranges, determine how many apples and oranges will fall on Sam's house (i.e., in the inclusive range [s,t])?
+Scores are in the same order as the games played. She tabulates her results as follows:
 
-For example, Sam's house is between s = 7 and t = 10. The apple tree is located at a = 4 and the orange at b = 12. There are m = 3 apples and n = 3 oranges. Apples are thrown apples = [2,3,-4] units distance from a, and oranges = [3,-2,-4] units distance. Adding each apple distance to the position of the tree, they land at [4+2,4+3,4+-4] = [6,7,0]. Oranges land at [12+3,12+-2,12+-4] = [15,10,8]. One apple and two oranges land in the inclusive range 7-10 so we print
-```
-1
-2
-```
+![image](https://user-images.githubusercontent.com/67931219/137580147-dd51e89a-2447-4b7a-a15b-5e1029df5aef.png)
+
+Given the scores for a season, determine the number of times Maria breaks her records for most and least points scored during the season.
 
 ### Function Description
 
-Complete the countApplesAndOranges function in the editor below. It should print the number of apples and oranges that land on Sam's house, each on a separate line.
+Complete the breakingRecords function in the editor below.
+breakingRecords has the following parameter(s):
 
-countApplesAndOranges has the following parameter(s):
-* s: integer, starting point of Sam's house location.
-* t: integer, ending location of Sam's house location.
-* a: integer, location of the Apple tree.
-* b: integer, location of the Orange tree.
-* apples: integer array, distances at which each apple falls from the tree.
-* oranges: integer array, distances at which each orange falls from the tree.
+* int scores[n]: points scored per game
+
+### Returns
+
+int[2]: An array with the numbers of times she broke her records. Index 0 is for breaking most points records, and index 1 is for breaking least points records.
 
 ### Input Format
 
-The first line contains two space-separated integers denoting the respective values of s and t.
-The second line contains two space-separated integers denoting the respective values of a and b.
-The third line contains two space-separated integers denoting the respective values of m and n.
-The fourth line contains m space-separated integers denoting the respective distances that each apple falls from point a.
-The fifth line contains n space-separated integers denoting the respective distances that each orange falls from point b.
+The first line contains an integer n, the number of games.
+The second line contains n space-separated integers describing the respective values of score0, score1, score2.....score(n-1).
 
 ### Constraints
 ```
-* 1<= s, t, a, b, m, n <= 10^5
-* -10^5 <= d <= 10^5
-* a < s < t < b
+* 1 <= n <= 1000
+* 0 <= scores[i] <= 10^8
 ```
-
-### Output Format
-
-Print two integers on two different lines:
-
-1. The first integer: the number of apples that fall on Sam's house.
-2. The second integer: the number of oranges that fall on Sam's house.
 
 ### Sample Input 0
 ```
-7 11
-5 15
-3 2 
--2 2 1
-5 -6
+9 
+10 5 20 20 4 5 2 25 1
 ```
 
-### Sample Input 1
+### Sample Output 0
 ```
-1
-1
+2 4
 ```
 
 ### Explanation 0
 
-The first apple falls at position 5 - 2 = 3.
-The second apple falls at position 5 + 2 = 7.
-The third apple falls at position 5 + 1 = 6.
-The first orange falls at position 15 + 5 = 20.
-The second orange falls at position 15 - 6 = 9.
-Only one fruit (the second apple) falls within the region between 7 and 11, so we print 1 as our first line of output.
-Only the second orange falls within the region between 7 and 11, so we print 1 as our second line of output.
+The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
 
+![image](https://user-images.githubusercontent.com/67931219/137580327-170b8530-8c55-45a7-afce-485a248d6f70.png)
+
+She broke her best record twice (after games 2 and 7) and her worst record four times (after games 1, 6, 4, and 8), so we print 2 4 as our answer. Note that she did not break her record for best score during game 3, as her score during that game was not strictly greater than her best record at the time.
+
+### Sample Input 1
+```
+10 
+3 4 21 36 10 28 35 5 24 42
+```
+
+### Sample Output 1
+```
+4 0
+```
+
+### Explanation 1
+
+The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
+
+![image](https://user-images.githubusercontent.com/67931219/137580336-8df848fb-0e21-40d3-8e0e-77d9f7f432d5.png)
+
+She broke her best record four times (after games 1, 2, 3, and 9) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print 4 0 as our answer.
