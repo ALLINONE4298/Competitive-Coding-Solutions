@@ -33,5 +33,5 @@ You will be given a seat number,find out the seat number facing you and the seat
 For each test case,print the facing seat-number and the seat-type, separated by a single space in a new line.
 
 ### CONSTRAINTS 
-* (1 <= T <= 10^5)
-* (1 <= N <= 108)
+* 1 <= T <= 10^5
+* 1 <= N <= 108
