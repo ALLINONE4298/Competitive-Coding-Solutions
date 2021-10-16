@@ -1,5 +1,5 @@
 # Zoos
-You are required to enter a word that consists of x and y that denote the number of Zs and Os respectively. <br />
+You are required to enter a word that consists of x and y that denote the number of Zs and Os respectively.  
 The input word is considered similar to word zoo if 2 X x = y.
 
 Determine if the entered word is similar to word zoo.
