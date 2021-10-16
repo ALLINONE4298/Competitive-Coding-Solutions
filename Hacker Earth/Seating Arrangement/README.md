@@ -1,6 +1,6 @@
 # Seating Arrangement
-Akash and Vishal are quite fond of travelling.They mostly travel by railways.<br />
-They were travelling in a train one day and they got interested in the seating arrangement of their compartment. <br />
+Akash and Vishal are quite fond of travelling.They mostly travel by railways.  
+They were travelling in a train one day and they got interested in the seating arrangement of their compartment.  
 The compartment looked something like
 
 ```
@@ -14,14 +14,14 @@ The compartment looked something like
        |1   12|13    24|25   36|37    ...  and so on ...   96|97     108|
        __________________________________________________________________
 ```
-<br />
+
+
 So they got interested to know the seat number facing them and the seat type facing them.The seats are denoted as follows :
 
 * Window Seat : WS
 * Middle Seat : MS
 * Aisle Seat : AS
 
-<br />
 
 You will be given a seat number,find out the seat number facing you and the seat type, i.e.WS, MS or AS.
 
@@ -33,5 +33,5 @@ You will be given a seat number,find out the seat number facing you and the seat
 For each test case,print the facing seat-number and the seat-type, separated by a single space in a new line.
 
 ### CONSTRAINTS 
-* (1 <= T <= 10^5)
-* (1 <= N <= 108)
+* 1 <= T <= 10^5
+* 1 <= N <= 108
