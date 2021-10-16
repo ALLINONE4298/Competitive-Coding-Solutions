@@ -7,9 +7,9 @@ You are conducting a contest at your college. This contest consists of two probl
 
 ### Input format
 * First line: T that denotes the number of test cases (1<= T <= 10)
-* For each test case:
-  ** First line: Cost of green and purple-colored balloons
-  ** Second line:  that denotes the number of participants (1<= n <= 10)
+* For each test case:  
+  -> First line: Cost of green and purple-colored balloons  
+  -> Second line:  that denotes the number of participants (1<= n <= 10)  
 * Next n lines: Contain the status of users. For example, if the value of the jth integer in the ith row is 0, then it depicts that the ith participant has not solved the jth problem. Similarly, if the value of the jth integer in the ith row is 1, then it depicts that the ith participant has solved the jth problem.
 
 ### Output format
