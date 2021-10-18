@@ -25,15 +25,13 @@ To know more about vectors, Click Here
 Input Format
 The first line of the input contains _**N**_ where _**N**_ is the number of integers. The next line contains _**N**_ integers.
 
-<br>
 
 ### Constraints:
 
-**1<= N <=10<sup>5</sup>**
+**1<= N <=10<sup>5**
 
-**1<= V<sub>i</sub> <=10<sup>5</sup>**,where **V<sub>i</sub>** is the **i<sup>th</sub>** integer in the vector.
+**1<= V<sub>i</sub> <=10<sup>5</sup>**,where **V<sub>i</sub>** is the **i<sup>th</sup>** integer in the vector.
 
-<br>
 
 ### Output Format
 
