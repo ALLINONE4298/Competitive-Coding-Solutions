@@ -1,6 +1,6 @@
 # Box It!
 
-## Problem
+### Problem
 
 You are given _**N**_ integers.Sort the _**N**_ integers and print the sorted order.
 Store the _**N**_ integers in a vector.Vectors are sequence containers representing arrays that can change in size.
@@ -26,7 +26,7 @@ The first line of the input contains _**N**_ where _**N**_ is the number of inte
 
 <br>
 
-## Constraints:
+### Constraints:
 
 **1<= N <=10<sup>5</sup>**
 
@@ -34,15 +34,15 @@ The first line of the input contains _**N**_ where _**N**_ is the number of inte
 
 <br>
 
-## Output Format
+### Output Format
 
 print the integers in the sorted order one by one in a single line followed by a space.
 
-## Sample Input
+### Sample Input
 
     5
     1 6 10 8 4
 
-## Sample Output
+### Sample Output
 
     1 4 6 8 10
