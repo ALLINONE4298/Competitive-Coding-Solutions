@@ -4,21 +4,22 @@
 
 You are given _**N**_ integers.Sort the _**N**_ integers and print the sorted order.
 Store the _**N**_ integers in a vector.Vectors are sequence containers representing arrays that can change in size.
-<li>Declaration:</li>
+* Declaration:
 
-    vector<int>v; (creates an empty vector of integers
-<li>Size:</li>
+        vector<int>v; (creates an empty vector of integers
+* Size:
 
-    int size=v.size();  
-<li>Size:</li>
-    
-    v.push_back(x);(where x is an integer.The size increases by 1 after this.)
-<li>Popping the last element from the vector:</li>
+        int size=v.size();  
+* Size:
 
-    v.pop_back(); (After this the size decreases by 1)
-<li>Size:</li>
+        v.push_back(x);(where x is an integer.
+        The size increases by 1 after this.)
+* Popping the last element from the vector:
 
-    sort(v.begin(),v.end()); (Will sort all the elements in the vector)
+        v.pop_back(); (After this the size decreases by 1)
+* Size:
+
+        sort(v.begin(),v.end()); (Will sort all th elements in the vector)
 
 To know more about vectors, Click Here
 Input Format
