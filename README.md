@@ -9,7 +9,9 @@ A Repo to help, When you're stuck at a particular problem.
 ## Here are some Competitve Coding Platform which are:
 * [HackerRank](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Hacker%20Rank)
 * [HackerEarth](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Hacker%20Earth)
+* [Kick Start](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Kick%20Start)
 * CodeChef
+* [CodeForces](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/CodeForces)
 * and others 
 
 ## Getting Started
@@ -18,7 +20,7 @@ Kindly, Read the [CONTRIBUTING](https://github.com/ALLINONE4298/Competitive-Codi
 
 ## Contributors
 
-Thanks to all [Contributors](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/blob/main/CONTRIBUTORS.md) to make this project better and I hope you all will make this project more better and keep contributing.
+Thanks to all [CONTRIBUTORS](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/blob/main/CONTRIBUTORS.md) to make this project better and I hope you all will make this project more better and keep contributing.
 
 
 ## Disclaimer: 
