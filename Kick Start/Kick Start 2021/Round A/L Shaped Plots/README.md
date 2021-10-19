@@ -19,11 +19,11 @@ We need to count the number of L-shapes in the grid.
 
 Below you can find two examples of correct L-shapes,
 
-< image here >
+![image](https://user-images.githubusercontent.com/65288518/137891698-3c97404d-5231-4f14-bbcf-3504b11da919.png)
 
 and three examples of invalid L-shapes.
 
-< image here >
+![image](https://user-images.githubusercontent.com/65288518/137891754-eb104187-5d73-4408-bd08-60d9dc639d4d.png)
 
 * Note that in the shape on the left, two segments do not share a common endpoint. The next two shapes do not meet the last requirement, as in the middle shape both segments have the same length, and in the last shape the longer segment is longer than twice the length of the shorter one.
 
@@ -82,7 +82,7 @@ In Sample Case #1, there is one L-shape.
 
 The first one is formed by using cells: (1,1), (2,1), (3,1), (4,1), (4,2)
 
-< image here >
+![image](https://user-images.githubusercontent.com/65288518/137891792-d3414b6a-c3f0-4086-8c8e-f32d413dc802.png)
 
 In Sample Case #2, there are nine L-shapes.
 
@@ -97,5 +97,5 @@ The eighth one is formed by using cells: (3,4), (3,3), (3,2), (3,1), (4,1)
 The ninth one is formed by using cells: (6,3), (5,3), (4,3), (3,3), (3,4)
 The first three L-shapes are shown on the picture below.
 
-< image here >
+![image](https://user-images.githubusercontent.com/65288518/137891832-86b7aa85-ebc0-4caa-a362-1f08e1fc3794.png)
 
