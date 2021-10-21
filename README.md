@@ -1,6 +1,6 @@
 # Competitve Coding Solutions
 
-A Repo to help, When you're stuck at a particular problem.
+A Repo to help, When you're stuck at a particular competitive coding problem.
 
 ------------------------------------------------------------------------------------------------
 * Note: Before knowing the solution, it's recommended that you should try it yourself first.
