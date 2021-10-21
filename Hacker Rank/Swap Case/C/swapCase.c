@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-char *swapCase(char s[], int n){
+char* swapCase(char s[], int n){
     for(int i=0; i<n; i++){
         // for upper case alphabets (A = 65)
         if((s[i] <= 90)  && (s[i] >= 65))
