@@ -87,7 +87,7 @@ Now before pushing your changes to maintainer's repository, you need to fetch th
 Type following command to Pull latest code
 
 ```
-git pull upstream main
+git pull upstream dev
 ```
 
 ### 9. Push your code to Github
