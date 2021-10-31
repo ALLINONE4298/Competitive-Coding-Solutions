@@ -10,7 +10,7 @@ A Repo to help, When you're stuck at a particular competitive coding problem.
 * [HackerRank](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Hacker%20Rank)
 * [HackerEarth](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Hacker%20Earth)
 * [Kick Start](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Kick%20Start)
-* CodeChef
+* [CodeChef](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/Code%20Chef)
 * [CodeForces](https://github.com/ALLINONE4298/Competitive-Coding-Solutions/tree/main/CodeForces)
 * and others 
 
